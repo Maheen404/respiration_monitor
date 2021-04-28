@@ -1,1 +1,3 @@
 # A Doppler Radar based unobtrusive respiration monitoring system
+Respiratory rate (RR), or the number of breaths per minute, is a vital clinical sign that can actually provide insight into one’s general state of health and can also be a valuable indicator of underlying medical conditions of individuals. Among several methods, non-contact characteristics of Doppler Radar sensor provides an unobtrusive means of continuous respiration detection and monitoring. No attachment of physical sensor or special clothing and preparation is needed. In this project, it is aimed to implement a sustainable Doppler Radar based respiration monitoring system.
+
